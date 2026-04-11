@@ -25,5 +25,6 @@ a good technical conversation over coffee.
 
 ---
 
-[![Pedro's GitHub Stats](https://github-readme-stats-fast.vercel.app/api/?username=pedromendonka&count_private=true&theme=algolia&show_icons=true&hide_border=true)](https://github.com/pedromendonka)
+[![Pedro's GitHub Stats](https://gh-private-stats.vercel.app/api/?username=pedromendonka&include_org_repos=true&include_all_commits=true&theme=algolia&show_icons=true&hide_border=true)](https://github.com/pedromendonka)
+[![Top Languages](https://gh-private-stats.vercel.app/api/top-langs/?username=pedromendonka&theme=algolia&show_icons=true&hide_border=true&layout=donut)](https://github.com/pedromendonka)
 
