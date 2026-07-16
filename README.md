@@ -15,9 +15,9 @@ a good technical conversation over coffee.
 **🌐 Live projects**
 - 🔨 [**Go-Forge 30 Days**](https://pedromendonka.github.io/goforge-30/) — 30-day journey learning idiomatic Go
 - 📚 [**ALGOS**](https://pedromendonka.github.io/algos/) — a cheat sheet of algorithms and data structures
+- 💻 [**RUNTUI**](https://github.com/pedromendonka/runtui) — One TUI to run them all
 
 **🚀 Currently**
-- Building a new open source project...
 - Exploring idiomatic Go and the best of Elixir (Elixir's concurrency model is awesome)
 
 **📫 Reach me**
